@@ -5,9 +5,9 @@ TextUtils is a versatile word and character manipulation utility built with Reac
 ## 📷 Screenshort
 ![Screenshot 2024-03-16 181242](https://github.com/Varunyadavgithub/TextUtils/assets/134674472/1b8bfb46-4dd4-4d12-8753-6ec6d068fa4d)
 
-## Live link
-[**Click Here**](https://varunyadavgithub.github.io/TextUtils/)
-## Features
+## 👁️ Live link
+ 🔗 [**Click Here**](https://varunyadavgithub.github.io/TextUtils/)
+## ✨ Features
 
 - **Word Counter:** Count the number of words in your text.
 - **Character Counter:** Count the number of characters in your text.
@@ -21,7 +21,7 @@ TextUtils is a versatile word and character manipulation utility built with Reac
 3. **View Manipulated Text**: The manipulated text will be displayed in real-time based on the selected action.
 4. **Copy to Clipboard**: Optionally copy the manipulated text to your clipboard for easy sharing or use.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - React
 - JavaScript
