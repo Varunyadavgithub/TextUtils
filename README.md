@@ -3,7 +3,10 @@
 TextUtils is a versatile word and character manipulation utility built with React. It provides a range of features to help you manipulate your text in various ways, including word and character counting, removing extra spaces, and converting text between different cases.
 
 ## Demo
+![Screenshot 2024-03-16 181242](https://github.com/Varunyadavgithub/TextUtils/assets/134674472/1b8bfb46-4dd4-4d12-8753-6ec6d068fa4d)
 
+## Live link
+[**Click Here**](https://varunyadavgithub.github.io/TextUtils/)
 ## Features
 
 - **Word Counter:** Count the number of words in your text.
