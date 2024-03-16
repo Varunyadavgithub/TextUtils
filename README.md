@@ -59,4 +59,4 @@ Contributions are welcome! If you have ideas for new features, improvements, or 
 
 ## Contact
 
-For any questions, suggestions, or feedback, please feel free to reach out to Connect Me on 🔗 [**Linkedin**](https://www.linkedin.com/in/varun-yadav-77152b251)  🔗 [**Twitter**](https://x.com/AlphaVarun1)
+For any questions, suggestions, or feedback, please feel free to reach out to Connect Me on 🔗 [**Linkedin**](https://www.linkedin.com/in/varun-yadav-77152b251)  🔗 [**Twitter**](https://x.com/varun_yadav01)
