@@ -1,4 +1,4 @@
-# TextUtils ## [**🔗Live Link**](https://easy-shoppe.vercel.app/)
+# TextUtils ## [**🔗Live Link**](https://varunyadavgithub.github.io/TextUtils)
 
 TextUtils is a versatile word and character manipulation utility built with React. It provides a range of features to help you manipulate your text in various ways, including word and character counting, removing extra spaces, and converting text between different cases.
 
